@@ -65,29 +65,29 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://thiencg.com" target="blank">
+  <!-- <a href="https://thiencg.com" target="blank">
     <img width="90" height="90" src="images/logo-thiencg-transparent-bg-192x192.png" alt="thiencg-blog" />
-  </a>
-  <a href="https://facebook.com/thiencg" target="blank">
+  </a> -->
+  <a href="https://www.facebook.com/profile.php?id=100024313742097" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="thiencg-facebook" />
   </a>
-  <a href="https://www.youtube.com/c/thiencgOfficial" target="blank">
+  <a href="https://www.youtube.com/channel/UCenpTDzdH92UquQ22eGgVXw" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="thiencg-youtube" />
   </a>
-  <a href="https://www.linkedin.com/in/thiencg" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="thiencg-linkedin" />
+  <a href="https://www.tiktok.com/@zo_nime" target="blank">
+    <img src="https://img.icons8.com/?size=1x&id=-x2V8Q63DerT&format=png" alt="thiencg-linkedin" />
   </a>
-  <a href="https://instagram.com/thiencg" target="blank">
+  <a href="https://www.instagram.com/cgthien/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="thiencg-instagram" />
   </a>
-  <a href="mailto:thiencg.official@gmail.com" target="top">
+  <a href="mailto:lethien3072003@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="thiencg-email" />
   </a>
 </div>
 
 <br>
 
-<h2 align="center">📖 My MERN Stack Advanced Course 📖</h2>
+<!-- <h2 align="center">📖 My MERN Stack Advanced Course 📖</h2>
 <br>
 <p>
   <a href="https://youtu.be/63opfUkPq6k" target="_blank">
@@ -105,7 +105,7 @@
 </p>
 <a href="https://youtu.be/63opfUkPq6k" target="_blank">
   <img src="images/fair-mern-stack-advanced-banner-thiencg-scaled.jpeg" width="1200" alt="thiencg-official" />
-</a>
+</a> -->
 
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
